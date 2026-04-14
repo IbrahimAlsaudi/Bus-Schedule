@@ -9,12 +9,6 @@ A simple Android application that displays bus schedules, built with modern Andr
 - **Smooth Navigation:** Uses Jetpack Compose Navigation with custom slide animations between screens.
 - **Offline Support:** Powered by a local SQLite database via Room.
 
-## Demo
-<p align="center">
-  <video src="screenshots/Screen_recording.webm" width="250" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
 
 ## Tech Stack
 
